@@ -10,6 +10,7 @@ main.py is a script that generates a 3D plot of the embeddings of a given datase
 - The 3 référence points for trilateration are chosen using PCA.
 - The 3D plot is generated using plotly as a 3D scatter plot built from the 3D embeddings.
 
+<hr>
 
 - Les embeddings sont générés à l'aide de sentence-transformers, une bibliothèque qui fournit des modèles pré-entraînés pour générer des embeddings de données textuelles.
 - Les embeddings sont des vecteurs de dimension 384.
@@ -23,6 +24,7 @@ main.py is a script that generates a 3D plot of the embeddings of a given datase
 2. Install the required libraries using requirements.txt
 3. Run the script main.py
 
+<hr>
 
 1. Avec l'IDE Python approprié
 2. Installez les bibliothèques requises en utilisant requirements.txt
