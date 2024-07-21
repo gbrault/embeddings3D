@@ -1,0 +1,7 @@
+# Fichiers Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Environnements virtuels
+venv/
